@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AwesomeProject.iml" filepath="$PROJECT_DIR$/.idea/modules/AwesomeProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AwesomeProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AwesomeProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1292500669/AwesomeProject.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-1292500669/AwesomeProject.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1602207811/AwesomeProject.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1602207811/AwesomeProject.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-528545765/AwesomeProject.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-528545765/AwesomeProject.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1405456452/AwesomeProject.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1405456452/AwesomeProject.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
